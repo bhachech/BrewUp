@@ -1,0 +1,25 @@
+brew "eza"
+brew "gh"
+brew "htop"
+brew "mas"
+brew "node"
+brew "pandoc"
+brew "python@3.13"
+brew "rename"
+brew "vim"
+brew "wget"
+brew "zoxide"
+brew "zsh"
+cask "amazon-workspaces"
+cask "font-fira-code-nerd-font"
+cask "font-meslo-lg-nerd-font"
+cask "font-noto-mono"
+cask "font-noto-sans"
+cask "font-noto-serif"
+cask "joplin"
+cask "mactex"
+mas "GrandPerspective", id: 1111570163
+mas "Magnet", id: 441258766
+mas "Nimble Commander", id: 905202937
+mas "RMS_sharing", id: 908570259
+mas "The Unarchiver", id: 425424353
