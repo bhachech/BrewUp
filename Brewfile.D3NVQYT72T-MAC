@@ -1,0 +1,15 @@
+brew "gh"
+brew "htop"
+brew "mas"
+brew "pandoc"
+brew "vim"
+brew "zsh"
+brew "zsh-completions"
+cask "font-noto-nerd-font"
+cask "joplin"
+cask "mactex"
+cask "zotero"
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "RMS_sharing", id: 908570259
+mas "The Unarchiver", id: 425424353
