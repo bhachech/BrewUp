@@ -8,6 +8,7 @@ brew "zsh-completions"
 cask "font-noto-nerd-font"
 cask "joplin"
 cask "mactex"
+cask "visual-studio-code"
 cask "zotero"
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
