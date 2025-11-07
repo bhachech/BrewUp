@@ -3,6 +3,8 @@ brew "grep"
 brew "htop"
 brew "mas"
 brew "ncftp"
+brew "nmap"
+brew "ntp"
 brew "pandoc"
 brew "sslscan"
 brew "telnet"
@@ -20,3 +22,4 @@ cask "zotero"
 mas "GrandPerspective", id: 1111570163
 mas "RMS_sharing", id: 908570259
 mas "The Unarchiver", id: 425424353
+vscode "mohsen1.prettify-json"
