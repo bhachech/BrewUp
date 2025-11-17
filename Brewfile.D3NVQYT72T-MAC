@@ -1,3 +1,4 @@
+brew "firefoxpwa"
 brew "gh"
 brew "grep"
 brew "htop"
@@ -20,6 +21,7 @@ cask "mactex"
 cask "visual-studio-code"
 cask "zotero"
 mas "GrandPerspective", id: 1111570163
+mas "Kindle", id: 302584613
 mas "RMS_sharing", id: 908570259
 mas "The Unarchiver", id: 425424353
 vscode "mohsen1.prettify-json"
