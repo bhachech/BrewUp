@@ -1,5 +1,6 @@
 brew "firefoxpwa"
 brew "gh"
+brew "icu4c@78"
 brew "grep"
 brew "htop"
 brew "imagemagick"
