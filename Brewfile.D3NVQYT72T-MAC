@@ -20,7 +20,6 @@ cask "font-noto-serif"
 cask "joplin"
 cask "mactex"
 cask "visual-studio-code"
-cask "zettlr"
 cask "zotero"
 mas "GrandPerspective", id: 1111570163
 mas "Kindle", id: 302584613
