@@ -11,6 +11,7 @@ brew "pandoc"
 brew "sslscan"
 brew "unison"
 brew "vim"
+brew "yazi"
 brew "zsh"
 brew "zsh-completions"
 cask "font-noto-mono"
@@ -25,4 +26,6 @@ mas "GrandPerspective", id: 1111570163
 mas "Kindle", id: 302584613
 mas "RMS_sharing", id: 908570259
 mas "The Unarchiver", id: 425424353
+vscode "chrischinchilla.vscode-pandoc"
+vscode "davidanson.vscode-markdownlint"
 vscode "mohsen1.prettify-json"
