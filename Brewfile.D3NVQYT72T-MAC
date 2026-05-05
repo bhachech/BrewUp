@@ -9,6 +9,7 @@ brew "mas"
 brew "ncftp"
 brew "nmap"
 brew "ntp"
+brew "ocrmypdf"
 brew "pandoc"
 brew "powershell"
 brew "sevenzip"
@@ -28,9 +29,11 @@ cask "gimp"
 cask "gpg-suite"
 cask "joplin"
 cask "mactex"
+cask "openshot-video-editor"
 cask "visual-studio-code"
 cask "zotero"
 mas "GrandPerspective", id: 1111570163
+mas "iMovie", id: 408981434
 mas "Kindle", id: 302584613
 mas "RMS_sharing", id: 908570259
 mas "The Unarchiver", id: 425424353
