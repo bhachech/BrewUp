@@ -29,7 +29,6 @@ cask "gimp"
 cask "gpg-suite"
 cask "joplin"
 cask "mactex"
-cask "openshot-video-editor"
 cask "visual-studio-code"
 cask "zotero"
 mas "GrandPerspective", id: 1111570163
