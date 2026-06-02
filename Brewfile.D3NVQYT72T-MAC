@@ -40,5 +40,6 @@ mas "The Unarchiver", id: 425424353
 vscode "chrischinchilla.vscode-pandoc"
 vscode "davidanson.vscode-markdownlint"
 vscode "github.copilot-chat"
+vscode "mechatroner.rainbow-csv"
 vscode "mohsen1.prettify-json"
 vscode "ms-vscode.powershell"
